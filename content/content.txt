@@ -1,1 +1,3 @@
 Assets for game go here.
+
+CXXFLAGS += `-pedantic -std=c++14`
